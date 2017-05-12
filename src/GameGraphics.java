@@ -50,11 +50,6 @@ public class GameGraphics
         angleSlider = new JSlider();
         this.add(thePanel);
         
-        while(y+1 = passable)
-        {
-            y++;
-        }
-
         this.setVisible(true);
 
     }
